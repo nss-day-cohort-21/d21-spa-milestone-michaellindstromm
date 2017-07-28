@@ -1,0 +1,26 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2017",
+      "price": "19999",
+      "description": "Almost brand new Honda Accord. Only 22,000 miles worth of care and luxury."
+    },
+    {
+      "make": "Hyundai",
+      "model": "Nugget",
+      "year": "2007",
+      "price": "5599",
+      "description": "This Nugget is perfect for your first car. Easy maintenance and incredible reliability."
+    }
+
+  ]
+}

@@ -1,0 +1,8 @@
+.eachCarCard {
+  border: 1px solid black;
+  background: rgb(209, 209, 209);
+  border-radius: 5px;
+  margin: 1em;
+  width: 25%;
+  height: 275px;
+}

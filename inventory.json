@@ -19,7 +19,14 @@
       "model": "Nugget",
       "year": "2007",
       "price": "5599",
-      "description": "This Nugget is perfect for your first car. Easy maintenance and incredible reliability."
+      "description": "The perfect go cart for a beautiful chicken nugget."
+    },
+    {
+      "make": "Ford",
+      "model": "Raptor",
+      "year": "2011",
+      "price": "8999",
+      "description": "Big truck for a little man."
     }
 
   ]

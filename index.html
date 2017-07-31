@@ -3,13 +3,27 @@
   <head>
     <meta charset="utf-8">
     <title>CarLot</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
   </head>
   <body id="body">
 
-    <!-- <script type="text/javascript" src="javascripts/CarLot.js"></script> -->
+    <div class="container description-input">
+      <form class="navbar-form navbar-right" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Write description">
+        </div>
+      </form>
+    </div>
+
+    <div id="carCards" class="container">
+
+    </div>
 
 
-    <script type="text/javascript" src="javascripts/ES6Way.js"></script>
-    <script type="text/javascript" src="javascripts/main.js"></script>
+    <script type="text/javascript" src="javascripts/CarLotxhrLoader.js"></script>
+    <script type="text/javascript" src="javascripts/CreateDom.js"></script>
+    <script type="text/javascript" src="javascripts/DOMFunctionality.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   </body>
 </html>
